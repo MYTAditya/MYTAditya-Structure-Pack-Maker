@@ -1,6 +1,6 @@
 # MYTAditya's Structure Pack Maker
 
-MYTAditya's Structure Pack Maker is an open source application made with TurboWarp (a Scratch mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files. Available for Web, Windows, Macintosh, Linux and Android. It's open source on GitHub on GNU GPLv3. You can also play it on Web.
+MYTAditya's Structure Pack Maker is an open source application made with TurboWarp (a Scratch mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files. It's open source on GitHub on GNU GPLv3.
 
 ### Difference between builds
 
