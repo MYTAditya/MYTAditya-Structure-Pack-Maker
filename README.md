@@ -1,6 +1,6 @@
 # MYTAditya's Structure Pack Maker
 
-MYTAditya's Structure Pack Maker is an open source application made with [TurboWarp](https://turbowarp.org) (a [Scratch](https://scratch.mit.edu) mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files. It's [open source on GitHub](https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker) under `GNU GPLv3`. And [MYTA UUID Generator](https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker/blob/master/extensions/MYTAditya-UUID-Generator.js) extension is licensed under `MIT`
+MYTAditya's Structure Pack Maker is an open source application made with [TurboWarp](https://turbowarp.org) (a [Scratch](https://scratch.mit.edu) mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files. It's [open source on GitHub](https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker) under `GNU GPLv3`. And [MYTA UUID Generator](https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker/blob/master/extensions/MYTAditya-UUID-Generator.js) extension is licensed under `MIT`.
 
 ### Different release frameworks
 
