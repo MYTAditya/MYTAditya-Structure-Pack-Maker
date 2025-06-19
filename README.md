@@ -1,15 +1,10 @@
 # MYTAditya's Structure Pack Maker
 
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MYTAditya/MYTAditya-Structure-Pack-Maker?color=%238a2be2"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/MYTAditya/MYTAditya-Structure-Pack-Maker?color=%23a9e43a"> <img alt="GitHub License" src="https://img.shields.io/github/license/MYTAditya/MYTAditya-Structure-Pack-Maker?color=blue"> <img alt="GitHub top language" src="https://img.shields.io/badge/engine-TurboWarp-red"> <img alt="licence" src="https://img.shields.io/badge/licence_(extension)-MIT-aquamarine">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MYTAditya/MYTAditya-Structure-Pack-Maker?color=%238a2be2"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/MYTAditya/MYTAditya-Structure-Pack-Maker?color=%23a9e43a"> <img alt="version" src="https://img.shields.io/badge/pack_version-v1.2.0-chartreuse"> <img alt="version" src="https://img.shields.io/badge/extension_version-v1.1.0-cyan"> <img alt="GitHub License" src="https://img.shields.io/github/license/MYTAditya/MYTAditya-Structure-Pack-Maker?color=blue"> <img alt="licence" src="https://img.shields.io/badge/license_(extension)-MIT-aquamarine"> <img alt="GitHub top language" src="https://img.shields.io/badge/engine-TurboWarp-red"> 
 
 [![](https://img.youtube.com/vi/Cfb9ziuhJiI/0.jpg)](https://youtu.be/Cfb9ziuhJiI?si=MBSu43FpzJRQ-Nev)
 
 MYTAditya's Structure Pack Maker is an open source application made with [TurboWarp](https://turbowarp.org) (a [Scratch](https://scratch.mit.edu) mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files.
-
-### Version
-App: `v1.1.0`.<br>
-Behaviour Pack: `v1.2.0`.<br>
-Extension: `v1.0.0`<br>
 
 ### Different release frameworks
 
