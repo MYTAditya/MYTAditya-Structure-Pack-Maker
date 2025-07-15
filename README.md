@@ -2,7 +2,7 @@
 
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MYTAditya/MYTAditya-Structure-Pack-Maker?color=%238a2be2"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/MYTAditya/MYTAditya-Structure-Pack-Maker?color=%23a9e43a"> <img alt="version" src="https://img.shields.io/badge/pack_version-v1.2.0-chartreuse"> <img alt="version" src="https://img.shields.io/badge/extension_version-v1.1.0-cyan"> <img alt="GitHub License" src="https://img.shields.io/github/license/MYTAditya/MYTAditya-Structure-Pack-Maker?color=blue"> <img alt="licence" src="https://img.shields.io/badge/license_(extension)-MIT-aquamarine"> <img alt="engine" src="https://img.shields.io/badge/engine-TurboWarp-red"> 
 
-![icon](https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker/blob/master/.github/icon.png)
+<img src="https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker/blob/master/.github/icon.png" alt="icon" width="360">
 
 [![](https://img.youtube.com/vi/Cfb9ziuhJiI/0.jpg)](https://youtu.be/Cfb9ziuhJiI?si=MBSu43FpzJRQ-Nev)
 
