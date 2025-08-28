@@ -19,8 +19,8 @@ The Linux build is built with Electron (64-bit only).<br>
 There are few differences between GitHub, GameJolt and PC (Windows, Macintosh, Linux) builds.<br>
 **1. GitHub:**
 The GitHub build contains mobile keyboard support & special developer mode.<br>
-**2. GameJolt:**
-The GameJolt build not contains the special developer mode.<br>
+**2. Android:**
+The Android build not contains the special developer mode.<br>
 **3. PC:**
 PC build means Windows, Macintosh and Linux builds which neither contains mobile keyboard support nor special developer mode.
 
