@@ -6,7 +6,7 @@
 
 [![](https://img.youtube.com/vi/Cfb9ziuhJiI/0.jpg)](https://youtu.be/Cfb9ziuhJiI?si=MBSu43FpzJRQ-Nev)
 
-MYTAditya's Structure Pack Maker is an open source application made with [TurboWarp](https://turbowarp.org) (a [Scratch](https://scratch.mit.edu) mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files.
+MYTAditya's Structure Pack Maker is an open source application made with [PenguinMod](https://penguinmod.com) (a [Scratch](https://scratch.mit.edu) mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files.
 
 ### Different release frameworks
 
@@ -33,10 +33,8 @@ Add URL param `/?dev=true` or [click this link](https://mytaditya-structure-pack
 1. Download the repository as a zip file or [click this link](https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker/archive/refs/heads/master.zip) to do it.
 2. Open [TurboWarp Unpackager](https://turbowarp.github.io/unpackager) and choose the file.
 3. After decompile process, download the `.sb3` file.
-4. Open [TurboWarp Editor](https://turbowarp.org/editor) and open it.
-5. It'll show you a warning, just click 'I understand'.
-6. Then it'll ask you to load some extensions, just load them.
-7. Good job! You've successfully opened it.
+4. Open [PenguinMod Editor](https://studio.penguinmod.com/editor.html) and open it.
+5. Good job! You've successfully opened it.
 
 ### Credits
 
