@@ -4,8 +4,6 @@
 
 <img src="https://github.com/MYTAditya/MYTAditya-Structure-Pack-Maker/blob/master/.github/icon.png" alt="icon" width="360">
 
-[![](https://img.youtube.com/vi/Cfb9ziuhJiI/0.jpg)](https://youtu.be/Cfb9ziuhJiI?si=MBSu43FpzJRQ-Nev)
-
 MYTAditya's Structure Pack Maker is an open source application made with [PenguinMod](https://penguinmod.com) (a [Scratch](https://scratch.mit.edu) mod). It can generate Minecraft Bedrock Edition behaviour packs which only can contain Minecraft Structure files.
 
 ### Different release frameworks
